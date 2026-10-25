@@ -1,2 +1,1 @@
-# Ruelta-para-sorteo-de-chat-
-Herramienta de sorteos para Twitch: registra a los viewers con !sorteo en el chat durante una semana y elige al ganador con una ruleta ponderada, en modo ganador directo o por eliminación.
+Sorteo Twitch es una página HTML sin dependencias ni instalación que se conecta de forma anónima al chat de tu canal y registra a quien escriba !sorteo. Los registros se guardan en el navegador durante toda la semana. Cuando llega el momento, una ruleta en directo elige al ganador, y quien más días participó tiene más probabilidad. Incluye dos modalidades (ganador directo o eliminación hasta que quede uno), exclusión de bots, entrada manual y exportación a JSON.
